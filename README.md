@@ -1,6 +1,6 @@
-# MapReduce-Example
+# WordCount-MapReduce
 
-In this repository, you will find the code to run the example of MapReduce - WordCount program in Apache Hadoop.
+In this repository, you will find the code to run the Word-Count program using Map Reduce in Apache Hadoop.
 
 To check whether you have Hadoop in ur Linux Host System,
 run the command **hadoop -version**
